@@ -1,6 +1,8 @@
 # Fork python_Travis_CI_test -> Adapt to Github Actions (Quick Fix - Needs through Revision)
 test project for python project integration with travis
 
+[![Python application](https://github.com/Novus-007/python_Github_CI_test/actions/workflows/python-app.yml/badge.svg)](https://github.com/Novus-007/python_Github_CI_test/actions/workflows/python-app.yml)
+
 ## Steps: 
 ### 1.Created a repository on git 
 ### 2.linked with travis and enabled CI run
