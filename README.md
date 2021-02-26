@@ -1,4 +1,4 @@
-# python_Travis_CI_test
+# Fork python_Travis_CI_test -> Adapt to Github Actions (Quick Fix - Needs through Revision)
 test project for python project integration with travis
 
 ## Steps: 
